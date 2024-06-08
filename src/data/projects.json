@@ -1,0 +1,26 @@
+[
+  {
+    "title": "RideShare",
+    "imageSrc": "projects/project.png",
+    "description": "Collaborated on a SRS for a RideShare mobile application, leading the development of UML diagrams and UX/UI",
+    "skills": ["UX/UI", "UML"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Landing Page",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and built responsive page using HTML, Bootstrap, JavaScript, Adobe Suite.",
+    "skills": ["HTML", "Bootstrap", "JavaScript", "UX/UI"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "NodeJS Blog",
+    "imageSrc": "projects/project.png",
+    "description": "Built a blog with Node.js, Express, MongoDB, allow users to create, read and delete blog posts.",
+    "skills": ["Express", "MongoDB", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
